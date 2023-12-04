@@ -1,2 +1,2 @@
-# OIBSIP_Tak1
+# OIBSIP_Task1
 java
